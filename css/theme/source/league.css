@@ -25,19 +25,19 @@ body {
 
 ::-moz-selection {
   color: #fff;
-  background: #FF5E99;
+  background: #ff5e99;
   text-shadow: none;
 }
 
 ::selection {
   color: #fff;
-  background: #FF5E99;
+  background: #ff5e99;
   text-shadow: none;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #FF5E99;
+  background: #ff5e99;
   text-shadow: none;
 }
 
@@ -57,7 +57,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #eee;
+  color: #61dafb;
   font-family: "League Gothic", Impact, sans-serif;
   font-weight: normal;
   line-height: 1.2;
@@ -257,7 +257,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-  color: #13DAEC;
+  color: #13daec;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   transition: color .15s ease;
@@ -298,7 +298,7 @@ body {
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
-  border-color: #13DAEC;
+  border-color: #13daec;
   -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);
           box-shadow: 0 0 20px rgba(0, 0, 0, 0.55);
 }
@@ -307,7 +307,7 @@ body {
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls {
-  color: #13DAEC;
+  color: #13daec;
 }
 
 /*********************************************
@@ -315,7 +315,7 @@ body {
  *********************************************/
 .reveal .progress {
   background: rgba(0, 0, 0, 0.2);
-  color: #13DAEC;
+  color: #13daec;
 }
 
 .reveal .progress span {
